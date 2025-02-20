@@ -3,9 +3,9 @@
 **Natural Healing** is an **Augmented Reality (AR) experience** designed to explore the connection between **nature and mental well-being**.  
 This repository contains **only the code** used in the project, while all assets (models, textures, sounds, etc.) have been excluded to keep the repository lightweight.  
 
-📺 **Project Demo**: [Watch on YouTube](https://www.youtube.com/shorts/m8Ze0FsmMs0)  
+📺 **Project Demo**: [Watch on YouTube](https://youtu.be/0efnLXpTF-8)  
 
-[![Watch the video](https://img.youtube.com/vi/m8Ze0FsmMs0/0.jpg)](https://www.youtube.com/shorts/m8Ze0FsmMs0) 
+[![Watch the video](https://img.youtube.com/vi/0efnLXpTF-8/0.jpg)](https://youtu.be/0efnLXpTF-8)  
 
 ---
 
