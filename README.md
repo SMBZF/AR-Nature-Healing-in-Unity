@@ -3,13 +3,13 @@
 **Natural Healing** is an **Augmented Reality (AR) experience** designed to explore the connection between **nature and mental well-being**.  
 This repository contains **only the code** used in the project, while all assets (models, textures, sounds, etc.) have been excluded to keep the repository lightweight.  
 
-📺 **Project Demo**: [Watch on YouTube](https://youtu.be/0efnLXpTF-8)  
+**Project Demo**: [Watch on YouTube](https://youtu.be/0efnLXpTF-8)  
 
 [![Watch the video](https://img.youtube.com/vi/0efnLXpTF-8/0.jpg)](https://youtu.be/0efnLXpTF-8)  
 
 ---
 
-## **🌿 Core Features**  
+## **Core Features**  
 
 ### **1. AR Object Generation**  
 - Uses **AR Foundation’s plane detection** to generate objects dynamically.  
@@ -36,7 +36,7 @@ This repository contains **only the code** used in the project, while all assets
 
 ---
 
-## **🛠 Development**  
+## **Development**  
 - **Engine**: Unity  
 - **AR Framework**: AR Foundation  
 - **Programming Language**: C#  
@@ -45,12 +45,12 @@ This repository contains **only the code** used in the project, while all assets
 
 ---
 
-## **👨‍💻 My Contributions**  
+## **My Contributions**  
 I was the **sole programmer** for this project, responsible for:  
  **Developing all AR interactions and object spawning logic**  
  **Implementing dynamic material updates with MPB for animations**  
  **Optimizing user interactions & performance for mobile AR**  
  **Creating a custom in-game debugging system**  
 
-🔗 **More details about my contributions & project overview:**  
+**More details about my contributions & project overview:**  
  [Natural Healing - AR Project](https://lyk953176376.wixsite.com/my-site-3)  
